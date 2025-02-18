@@ -1,0 +1,8 @@
+Acne
+Benign Tumors
+Eczema
+Fungal Infections
+Malignant Lesions
+Nail Fungus
+Psoriasis
+Viral infections
